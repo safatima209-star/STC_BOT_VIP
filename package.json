@@ -1,5 +1,5 @@
 {
-    "name": "whatsapp-md-bot",
+    "name": "STC BOT VIP",
     "version": "1.0.0",
     "description": "WhatsApp MD-Style Multi-Command Bot with Baileys",
     "main": "index.js",
@@ -11,12 +11,12 @@
     },
     "keywords": [
         "whatsapp bot",
-        "Knight Bot Mini",
+        "STC Bot VIP",
         "bot",
         "baileys",
         "md"
     ],
-    "author": "Your Name",
+    "author": "Imrane Moussaid",
     "license": "MIT",
     "dependencies": {
         "@bochilteam/scraper": "^5.0.1",
