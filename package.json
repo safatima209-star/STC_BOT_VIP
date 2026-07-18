@@ -1,6 +1,6 @@
 {
-    "name": "STC BOT VIP",
-    "version": "1.0.0",
+    "name": "Orbit Bot",
+    "version": "1.0.2",
     "description": "WhatsApp MD-Style Multi-Command Bot with Baileys",
     "main": "index.js",
     "type": "commonjs",
