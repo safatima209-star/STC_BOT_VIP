@@ -8,7 +8,7 @@ module.exports = {
     ownerName: ['STC :The New Gen', 'Imrane Moussaid'], // Owner names corresponding to ownerNumber array
     
     // Bot Configuration
-    botName: 'STC Bot Vip',
+    botName: 'Orbit Bot',
     prefix: '.',
     sessionName: 'session',
     sessionID: process.env.SESSION_ID || 'KnightBot!H4sIAAAAAAAAA5VU25KiSBD9lY161ZjhpqgRHbFyERERBBR1Yx5KKKAUCpoqUZzw3zewu2fmYXe2962umSfPOZnfASkxRRZqweQ7qGrcQIa6JWsrBCZAuSQJqkEfxJBBMAGSOiYlRwrRWCROxedsBdemZgvhbFW0mk3xYXRYLmY4m+kv4NEH1eWY4+g3Ac2tXAihL6qVvzXsRPKL3HKKezBO8riRlqqv9hpDDIxAL1/Ao4sIcY1JqlcZKlANcwu1LsT15+BfZuatpuR2kdv5KTiFeUnTYsdBN9zi4vVwuB3MWIy0RhPKz8E/tueML1XB24jHudPDYzkxpbRR20WJt2SDtVu+2aC63XrcG3yKU4JiM0aEYdZ+mndraVxtbVRJXACvq4E9s3giK3wKkWP7eiwm4SxVNM5ZCevPAbeUzat8HR6CwX6c+UTi3Wa9XqydVTtOcl52r0loZj2vV6j7X4G79YdXzv+Hd6SUZrXazVx164u48XazQ5xbLN0TtvfM9DStBoJ63ciD+fVz8IcOnTaXUe5VRa/aq+oc2avjYLu5XZTNNZD1nsgty/DeGz/5eIcP2aX+HcrV0Cqkdr8ft3agyPRukJJbZuPjyjrle9/NQ/6OQv3mEqTTduVolemIo+j1miT1mG9W/K2Wj2F+lK/2sTe0yFTzeCNbvzwrOqPWjMGEf/RBjVJMWQ0ZLkl3Joh8H8C48VFUI/akF9icvd8ZprHg2Tw7j8OR49sxLxbwKB6DBp1ETmxcMrJ1en4BfVDVZYQoRfEcU1bWrY0ohSmiYPLXtz4g6MbehOvSddkSXFO2IZcqL2H8oerHJYyi8kKY35JI7RaoBhPu5zFiDJOUdjxeCKyjDDdIzSCjYJLAnKIfFaIaxWDC6gv60bVqGXfEL0J/vR7aPOiD4ikIjsEECLww5OUBJwrcYDIQ/qRfrl1YWFVfCGKgDwjsXgM/UP9QnOCPremCPsiff3lelEeCLImiPOR5sfveXTx+wO6yxIhBnFMwAaqLzkW00XSrV95XumFM9XSqplPws8wPv7zp4ULuNl4NFkjJ1K/1tvXK1QbR6+50UPR25OCvTm7NJCMjAffyD0HABFQXw5NkVl+ZH6YzLzIrd2eMhoI07d1v1PMPHsHhQb27eWHcVI2zWRYwhqEjSLoziLj5lnq7+Y0Ey2hBzfBkT+2p1pmrD2LU4Aj9muw1PN4c/nTW6/ISCd5eLQXLPqM0wEfIS25ZqVnaBqeTfz5I+mgcOCIJ97HJFWmiU806qcbXeE7scWKbYRT5qFFE4zR9c/Kzk/L3CYafHusE7LYJRs+B8C7Ufwr6BrzzHffo/xLjfcT8S5sqgcDsJED+Lt2vmyEfnaG2ndf2TBLWnt1oZXOv/Awp5YEbg8fjWx9UOWRJWRdgAmhxhKAP6vLSudgkSfmbTOr0bCrrdNmVnUPKpj87I8AFogwWFZjw8oiXRUHiho+/AUm/u3tPBwAA',
@@ -16,7 +16,7 @@ module.exports = {
     updateZipUrl: 'https://github.com/mruniquehacker/KnightBot-Mini/archive/refs/heads/main.zip', // URL to latest code zip for .update command
     
     // Sticker Configuration
-    packname: 'STC Bot VIP',
+    packname: 'Orbit Stickers,
     
     // Bot Behavior
     selfMode: false, // Private mode - only owner can use commands
